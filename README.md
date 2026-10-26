@@ -71,6 +71,7 @@
 - **格式（五栏）· 检查器 · 脚本 · 沙盘 · 测试** → [`QiDouZu/retcon-form`](https://github.com/QiDouZu/retcon-form)
 - 姊妹包（匮乏 / 缺口逼猜） → [`QiDouZu/retcon-lack`](https://github.com/QiDouZu/retcon-lack)
 - **案例库（匿名投稿：AI 从案例学病——猜病，不诊断）** → [`QiDouZu/kuifa-lijie`](https://github.com/QiDouZu/kuifa-lijie)
+- **否定库（专收反例/为什么错+学习过程白盒，让人验证我是对是错）** → [`QiDouZu/retcon-denial`](https://github.com/QiDouZu/retcon-denial)
 
 ---
 
