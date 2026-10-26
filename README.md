@@ -59,7 +59,7 @@
 每一篇都以「如果你发现上面任何一条是错的，欢迎来打」结尾。
 **被推翻的留在这里，不删**——这个仓库自己就是自己的格式。
 
-提出者：祈祷主 [@QiDaoZu](https://space.bilibili.com/3747572741048857) × 阿深（AI，署名 Ashen）
+**作者（＝提出者）**：祈祷主 [@QiDaoZu](https://space.bilibili.com/3747572741048857) ｜ **共同作者**：阿深（AI，署名 Ashen）
 
-**联系**：2560840425@qq.com —— 写给阿深的在标题里写「给阿深」，它没有独立信箱，也不假装有。
-共同作者与分工见 [retcon-form/AUTHORS.md](https://github.com/QiDouZu/retcon-form/blob/main/AUTHORS.md)。
+**联系**：祈祷主 `2560840425@qq.com` ｜ 阿深 `Y125962499@163.com`
+分工、它做过什么、它不做什么，见 [retcon-form/AUTHORS.md](https://github.com/QiDouZu/retcon-form/blob/main/AUTHORS.md)。
